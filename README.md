@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator README
 
 ## Description
 A website that randomly generates a password that meets the following criteria:
@@ -19,3 +19,4 @@ When the user clicks the generate password button, a strong password is generate
 
 
 ## Link
+https://haleynicole126.github.io/passwordgenerator/
