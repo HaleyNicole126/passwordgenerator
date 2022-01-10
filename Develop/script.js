@@ -101,15 +101,22 @@ if (passInfo.special === true) {
   characterArray.push(spec);
 }
 
-var newArray = characterArray.join(",");
+var newArray = characterArray.join("");
 
 
 
-
+var passArray = [];
 for(var i = 0; i < passInfo.length; i++) {
   var ranElement = Math.floor(Math.random() * newArray.length);
-  console.log(ranElement, newArray[ranElement]);
+  passArray.push(newArray[ranElement]);
+  console.log(passArray);
 }
+
+function generatePassword() {
+  let text = passArray.join("");
+  return text;
+}
+
 
 
 
