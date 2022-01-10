@@ -13,8 +13,10 @@ When the user clicks the generate password button, a strong password is generate
 * HTML
 * CSS
 
-## Screenshot
+## Screenshots
 ![image](https://user-images.githubusercontent.com/94570754/148720281-fdd8eff1-d322-4d56-b2ec-a5e010b39aa5.png)
+
+After clicking the "generate password" button"
 ![image](https://user-images.githubusercontent.com/94570754/148720299-6c470de3-9a1d-4998-a0d2-e15200f7dc12.png)
 
 
